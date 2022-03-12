@@ -1,3 +1,10 @@
+<p   align="center"><img
+  src="https://user-images.githubusercontent.com/77505989/158013394-8044b025-3fc1-49ae-b43a-1f3254c8421a.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+ </p>
+  
 ## What it is capable of doing?
 1. Users can program in 4 supported languages - _C, C++, Python & Javascript_.
 2. Users can set their default language, stored in the browser's local storage.
