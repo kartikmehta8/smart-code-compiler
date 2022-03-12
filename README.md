@@ -35,4 +35,5 @@
 - [Manasvi Singh](https://github.com/Alcyone713)
 
 ## Getting more from Github!
-Open Source Collaborators are welcomed by a bot when they try to open an issue.
+- Open Source Collaborators are welcomed by a bot when they try to open an issue.
+- Github Workflow has been scheduled to greet the users that are first time contributors. All thanks to Github Actions!
